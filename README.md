@@ -1,4 +1,4 @@
-![Hi there!](cloud.jpg?=raw=true)
+
 
 ### Hi there 👋
 
